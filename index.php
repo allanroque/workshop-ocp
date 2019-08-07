@@ -30,7 +30,7 @@
 
 <body>
     <div class="header">
-        Hello world!!!
+        Café Red Hat!
     </div>
 
     <img class="logo" src="https://www.underconsideration.com/brandnew/archives/red_hat_logo_inverse.png">
