@@ -30,7 +30,7 @@
 
 <body>
     <div class="header">
-        Red Hat!!
+        Red Hat Red Hat !!!
     </div>
 
     <img class="logo" src="https://www.underconsideration.com/brandnew/archives/red_hat_logo_inverse.png">
