@@ -30,7 +30,10 @@
 
 <body>
     <div class="header">
-        Red Hat !!!
+        <?php
+echo "<h1>Openshift Workshop v1.0</h1> ";
+echo $_SERVER['SERVER_ADDR'];
+?>
     </div>
 
     <img class="logo" src="https://www.underconsideration.com/brandnew/archives/red_hat_logo_inverse.png">
