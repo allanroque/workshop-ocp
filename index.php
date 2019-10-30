@@ -31,6 +31,7 @@
 <body>
     <div class="header">
         <?php
+        novo codigo
 echo $_SERVER['SERVER_ADDR'];
 ?>
     </div>
