@@ -30,10 +30,7 @@
 
 <body>
     <div class="header">
-        <?php
-        novo codigo
-echo $_SERVER['SERVER_ADDR'];
-?>
+teste test
     </div>
 
     <img class="logo" src="https://www.underconsideration.com/brandnew/archives/red_hat_logo_inverse.png">
